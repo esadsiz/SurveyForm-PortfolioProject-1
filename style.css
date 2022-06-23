@@ -13,9 +13,6 @@ body {
   background-size: cover;
   background-repeat: repeat;
   padding: 5% 25%;
-  
-  height: 100%;
-  width: 100%;
 
   -webkit-user-select: none;
   -moz-user-select: none;
